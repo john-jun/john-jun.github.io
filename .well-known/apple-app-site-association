@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "S8QB4VV633.com.demo.projects"
+          "T6YWKV2C86.com.flutterdemo.projects"
         ],
         "paths": [
           "*"
@@ -19,7 +19,7 @@
   },
   "webcredentials": {
     "apps": [
-      "S8QB4VV633.com.demo.projects"
+      "T6YWKV2C86.com.flutterdemo.projects"
     ]
   }
 }
