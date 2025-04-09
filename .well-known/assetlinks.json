@@ -2,11 +2,10 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.liangcang.app",
+    "package_name": "com.yawe.dev",
     "sha256_cert_fingerprints":
     [
-      "25:EC:20:6D:EB:76:C4:08:F7:2C:5B:07:3A:6D:1E:AA:38:0B:13:8B:21:20:40:3D:E1:85:50:64:60:FC:46:D8",
-      "1C:F1:CC:60:E3:4B:69:70:DF:F6:17:C7:E1:89:58:52:2A:17:5F:48:3E:18:FA:6F:35:AC:6A:CC:B2:87:CD:19"
+      "BE:BE:7D:19:11:0D:80:02:75:5E:97:E3:3F:1B:EE:95:A7:DA:54:27:D5:5D:04:84:E2:EC:7A:1F:12:C2:81:02"
     ]
   }
 }]
